@@ -1,0 +1,17 @@
+generatorName: python
+outputDir: .
+inputSpec: ../openapi/goodsender.yaml
+gitUserId: good-sender
+gitRepoId: python-sdk
+packageVersion: 0.1.0
+additionalProperties:
+  httpUserAgent: goodsender-python/0.1.0
+  packageName: goodsender
+  projectName: goodsender
+  packageVersion: 0.1.0
+  packageUrl: https://github.com/good-sender/python-sdk
+  packageDescription: Official GoodSender API client for Python
+  licenseName: MIT
+  infoEmail: support@goodsender.com
+  infoName: GoodSender
+  generateSourceCodeOnly: false
