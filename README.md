@@ -2,12 +2,6 @@
 
 Official client library for the GoodSender email API. Package: `goodsender`
 
-## Installation
-
-```bash
-pip install goodsender
-```
-
 ## Quick start
 
 ```python
