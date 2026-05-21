@@ -2,12 +2,6 @@
 
 Official client library for the GoodSender email API. Package: `goodsender`
 
-## Installation
-
-```bash
-pip install goodsender
-```
-
 ## Quick start
 
 ```python
@@ -76,7 +70,7 @@ print(f"emails={len(res.emails or [])}")
 
 ## Documentation
 
-- API reference: <https://api.goodsender.com/docs>
+- API reference: <https://goodsender.com/docs>
 - OpenAPI spec: `openapi/goodsender.yaml` in this repo
 - Conformance tests: `tests/`
 
